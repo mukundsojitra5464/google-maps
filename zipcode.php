@@ -1,9 +1,9 @@
 <?php
 
-$host = "shbcrmdb.c5v0beo4n1dq.us-east-1.rds.amazonaws.com";
-$username="sos_dev";
-$password="vx3A8HCAJeAHtC2N";
-$database="sos-dev";
+$host = "##############";
+$username="##############";
+$password="##############";
+$database="##############";
 
 
 // Opens a connection to a MySQL server
